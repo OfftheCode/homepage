@@ -1,0 +1,36 @@
+a{
+    color: rgb(113, 10, 54);
+}
+
+header a{
+    color: #9CF6F6;
+
+}
+
+.navi-header{
+    background-color: dimgray;
+}
+
+.background{
+    background-color: #D4C685;
+}
+
+.page-header{
+    color: #102542;
+}
+
+p{
+    color: #3B1F2B;
+}
+
+.art-head{
+    color: #273B55;
+}
+
+.foot-background{
+    background-color: #B5D6D6;
+}
+
+b{
+    color: rgba(0, 0, 0, 0.79);
+}
