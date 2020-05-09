@@ -2,7 +2,6 @@ const firstName = 'Adrian' ;
 const lastName = 'Jagiełło' ;
 const age = 22 ;
 
-alert('Work in progress ;)') ;
 console.log(firstName) ;
 console.log(lastName) ;
 console.log(age) ;
